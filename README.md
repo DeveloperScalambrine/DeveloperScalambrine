@@ -30,8 +30,7 @@
   <li>Context API e React Hooks</li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperScalambrine
-&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperScalambrine)](https://github.com/DeveloperScalambrine/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperScalambrine&theme=dark&show_icons=true)
 
